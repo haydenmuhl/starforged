@@ -1,0 +1,46 @@
+Sector: (72, 18) Outer Cluster
+Region: Outlands
+Faction:
+
+Name: (47) Luminus
+Location: (46) Orbital
+Population: (05) Few
+Authority: (28) Innefectual
+Projects:
+  (25) Engineering
+  (93) Warfare
+Planet:
+  Class: (41) Ice world
+Star: (23) Glowing orange star
+
+Weapons research lab. Well armed, and off most people's radar. Orbiting a small frozen planet on the far outer edge of the system. Ships arriving at this sector are unlikely to jump here due to the planet's small mass.
+
+Name: (09) Aurora
+Location: (45) Orbital
+Population: (95) Tens of thousands
+Authority: (84) Corrupt
+Projects:
+  (00) (Action + Theme)
+    Action: (62) Locate
+    Theme: (58) Opportunity
+  (51) Migration
+Planet:
+  Class: (82) Rocky world
+Star: (90) Black Hole
+First Look: (92) (49, 12) Grim blocade
+Settlement Trouble: (63) Social Strife
+
+The Aurora was one of the larger ships left over from the Jump. When its engines died and could not be repaired, it was repurposed as a space station and became one of the major travel hubs in the Outlands for people looking for a new place to settle. The black hole it orbits makes it an easy anchorage to find. It's a place of last resort for refugees, and a place to find cheap labor for those with the means.
+
+Name: (66) Providence
+Location: (42) Orbital
+Population: (67) Thousands
+Authority: (19) Ineffectual
+Projects:
+  (87) Terraforming
+  (91) Trade
+Planet:
+  Class: (50) Ice world
+Star: (70) White Dwarf
+
+An orbital terraforming station. The star is not ideal, but this planet has a rocky surface and enough water ice to support oceans. With luck and hard work the planet below may eventually become a new haven for humanity here in the Outlands. The Aurora provides a steady stream of workers, for those willing to risk the dangerous work on the surface. The planet is on the outer edge of the habitable zone of this system.

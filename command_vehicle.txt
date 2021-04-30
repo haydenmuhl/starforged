@@ -1,0 +1,9 @@
+Name: Borealis
+
+* Your armed, multipurpose starship is suited
+for interstellar and atmospheric flight. It can
+comfortably transport several people, has
+space for cargo, and can carry and launch
+support vehicles. When you Advance, you
+may spend experience to equip this vehicle
+with module assets.

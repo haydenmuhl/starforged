@@ -1,0 +1,36 @@
+Name: Kaleb Saava
+Pronouns: He/him
+Callsign: Brash
+
+Edge: 3
+Heart: 1
+Iron: 2
+Shadow: 1
+Wits: 2
+
+Characteristics:
+
+Assets:
+
+Ace
+* When you Face Danger or React Under Fire
+by guiding your vehicle through a hazard
+or out of harm’s way, add +1 and take +1
+momentum on a hit.
+
+Scavenger
+* When you Gather Information or Resupply
+by scavenging a wreck, ruin, or abandoned
+site, add +1 and take +1 momentum on a hit.
+On a strong hit with a match, you also find
+something of unique value, significance,
+or function; envision the nature of this
+discovery, take +2 momentum, and mark 2
+ticks on your discoveries legacy track.
+
+Sensor Array
+* Your advanced sensors scan the paths
+ahead to help spot dangers. When you
+Undertake an Expedition (+wits), and roll a
+10 on only one challenge die, you may reroll
+that die.
