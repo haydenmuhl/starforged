@@ -1,0 +1,146 @@
+    Starting connection
+    Make a Connection, automatic strong hit
+
+    Pronouns: (1-3: he, 4-6: she) 6, she/her
+    Name: (DV KN) Deliev "Del" Korin
+    Role: (62) Pilgrim
+    Goal: (27) End a conflict
+    Revealed Aspect: (46) Honorable
+
+Health: 5
+Spirit: 5
+Supply: 5
+Momentum: 2
+Integrity (Command Vehicle): 5
+
+    Deliev is helping escort some settlers that are moving through the Aurora,
+    but the blockade has left them stranded. Supplies are getting scarce and
+    people are getting desperate.
+
+Del: Kaleb. Kaleb!
+Kaleb: I'm not listening to you.
+Del: These people need your help.
+Kaleb: It's not my problem.
+Del: People are going to start dying if we don't find a way around the blockade.
+Kaleb: There's too many people anyway.
+Del: I know you don't mean that. Besides, what's so important that you have to get out of here so quickly?
+Kaleb: Didn't you hear? People are going to start dying. I don't want to be one of them.
+Del: You can be a real asshole, you know?
+Kaleb: Look, I've got a lead on some salvage further voidward, and I need to get there before someone beats me to it. You're headed in the wrong direction.
+Del: All we need is a way around the blockade. A few days to chart a course, and then you'll be on your way.  And... I'll owe you.
+Kaleb: Owe me? What do you have that I could need?
+Del: Someplace out of the way to set down. A warm meal. No troublesome questions.
+
+Kaleb stops what he's doing. His shoulders slump.
+
+Kaleb: Damn it. I know I'm going to regret this.
+Del: So you'll do it?
+Kaleb: Yes, fine, I'll do it.
+Del: I want you to swear it.
+
+Del holds out her iron medallion of the Spiral. Kaleb nods and then takes up the medallion. They clasp it between their hands as Kaleb swears his vow.
+
+Kaleb: I swear, I will find you a way around that blockade.
+
+    Swear and Iron Vow, +heart, +1
+    Chart a course around the blockade at the Aurora
+    Troublesome
+    (5+2 vs 9,10) miss
+    [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+
+    Kaleb's going to have trouble getting off the station.
+
+Del puts her hand on the back of Kaleb's head and gives him a rough peck on the forehead. Kaleb objects, mildly.
+
+Del: You don't know what this means to me.
+Kaleb: It'll take me a few hours to do some last minute prep for the journey.
+Del: Alright. I'll let the others know.
+
+Del darts off into the crowd.
+
+    What's going to hold up Kaleb?
+    (95, 02) Threaten advantage
+    Someone else is after the same salvage, and has sabotaged Kaleb's ship in an attempt to slow him down.
+
+A few hours later Kaleb is making his final preparations, and Del walks on board.
+
+Del: How long until we go?
+Kaleb: We? What do you mean we?
+Del: The Abbess gave me permission to come with you, to help chart the new passage.
+Kaleb: Damn it. Fine. I don't have time to argue with you. The faster we get this done, the faster I can get to that salvage.
+
+    Does the sabotage happen within range of the Aurora?
+    Ask the Oracle, 50/50
+    (80) Yes
+
+The Borealis undocks from the Aurora and navigates with its thrusters to make enter the first drift. As the e-drive spins up, an explosion rocks the port side of the ship, sending it careening off course.
+
+    Withstand Damage (-1)
+    Integrity (Command Vehicle): 4
+    roll +integrity
+    (4+4 vs 5,5) Strong hit, match
+    Ride it out: +1 momentum
+    Momentum: 3
+
+    Strong Hit: The e-drive wasn't disabled.
+    Match: The sabotage has a hallmark of someone Kaleb knows.
+
+The ship bucks. Kaleb struggles to get the ship under control and eventually does so.
+
+Kaleb: Fuck!
+Del: What was that!?
+Kaleb: I don't know! I'll have to check it out to see what happened. Stay here. I'll call you on the radio if I need something.
+
+Kaleb dons his pressure suit and heads out to survey the damage. There's a blast mark and a hole, but upon inspection, it can be patched up enough to get under way. Working with Del in the cockpit, the e-drive eventually hums back to life.
+
+Kaleb heads back inside, and walks into the cockpit.
+
+Kaleb: That FUCKER!
+
+    Who?
+    Pronouns: (1-3: he, 4-6: she) (2) he/him
+    (LV) Lazlov
+
+Del: Who?
+Kaleb: Lazlov. I know it was him.
+
+    Is Kaleb right about this?
+    Gather Information, +wits
+    (6+2 vs 5,5) strong hit, match
+    +2 momentum
+    Momentum: 5
+
+    Strong hit: It was definitely Lazlov.
+    Match: Part of the device he used survived. Evidence, and maybe something to be used for payback.
+
+Del: ...Who???
+Kaleb: Another scavenger. Look at this. It was connected to the e-drive and set to overload. It was probably supposed to destroy itself, but Lazlov always was a cheap bastard.
+
+Kaleb stows the device.
+
+Kaleb: I'll deal with that later. Let's get going.
+
+Kaleb spins up the e-drive again...
+
+    We're trying to circumnavigate the blockade. We probably want to be stealthy.
+
+    Undertake and Expedition, +shadow
+    (4+1 vs 4,7) weak hit
+    [#][#][#][ ][ ][ ][ ][ ][ ][ ]
+
+    Is there a scout from the blockade here?
+    Ask the Oracle, 50/50
+    (02) No
+
+    What is the nature of the peril here?
+    (04, 54) Affect life
+    There's bad radiation here.
+    We've got to protect ourselves from the radiation, and find a safe way for people to jump here.
+
+    Find out what happens, next time!...
+
+Health: 5
+Spirit: 5
+Supply: 5
+Momentum: 5
+Integrity (Command Vehicle): 4
