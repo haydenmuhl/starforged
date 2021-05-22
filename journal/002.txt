@@ -1,0 +1,129 @@
+Health: 5
+Spirit: 5
+Supply: 5
+Momentum: 5
+Integrity (Command Vehicle): 4
+
+Kaleb and Del have just made their first jump trying to try and chart a course
+around the blockade of the Aurora. As soon as they arrive an alarm begins to
+sound in the cockpit.
+
+Del: Elevated levels of radiation detected.
+Kaleb: Well, that's not good.
+
+Kaleb flips a few switches and shutters begin to come down over the windows.
+
+Kaleb: We'd better get to the center of the ship, unless you want your kids to
+       have three arms. We might want to put on our pressure suits while we're
+       at it. They'll have some extra shielding.
+Del: I don't know if we'll
+
+They don their suits and head towards the engine room. Del starts to poke at a
+terminal.
+
+Del: Let's see where this radiation is coming from.
+
+    Space Encouters
+    (06) Stellar Object
+    (57) Young star incubating in a molecular cloud
+
+Del: This is strange. All that's out there is a proto-star. It shouldn't be
+     putting out this much radiation.
+Kaleb: Well, let's see if we can't find what's causing this, or someplace
+       that's not so exposed.
+
+    Explore a Waypoint, +wits
+    (2+2 vs 1,2) strong hit
+    Find an opportunity
+    +2 momentum, 7
+
+    What kind of planet is forming?
+    (86) Rocky world
+    (93) Marginal atmosphere
+
+Kaleb: Look at this. There's a planet forming. It might have a magnetic field
+       strong enough to block enough radiation that we can wait this out.
+
+Kaleb programs a basic course to orbit the planetoid. As the ship approaches,
+the radiation levels begin to fluctuate, then drop.
+
+Kaleb: I think this will work, as long as you've got a pilot who can jump in
+       next to this planet.
+
+    Reach a Milestone
+    Chart a course around the blockade at the Aurora
+    [#][#][#][ ][ ][ ][ ][ ][ ][ ]
+
+Kaleb uses the next hour to scan for the next anchorage to jump to.
+
+    They're still trying to stay under the radar, as it were.
+
+    Undertake an Expedition, +shadow
+    (1+1 vs 2,3) miss
+    Burn momentum (7), strong hit
+    [#][#][#][#][#][#][ ][ ][ ][ ]
+
+    Reach a Milestone
+    Chart a course around the blockade at the Aurora
+    [#][#][#][#][#][#][ ][ ][ ][ ]
+
+    (45) Derelict
+    Location: (77) Deep Space
+    Type: (65) Derelict starship
+    Condition: (45) Cold and dark
+
+Kaleb: Oh, Del, I knew this was a good idea. Look what's off the bow.
+Del: That wreck is all yours... _after_ we've finished charting the new passage.
+Kaleb: Oh, come on. We've got a few hours until the e-drive is ready to go again.
+       I'm going to head over and take a look. You should come along, it will
+       be fun.
+
+    Compel, +heart
+    (5+1 vs 5,7) weak hit
+
+Del: I want to make sure we finish charting this passage. Let's do a survey from
+     here in the ship.
+Kaleb: I'm going over there. There's no substitute for getting your hands dirty.
+       If you want to stay here, you can run scans to help map the ship.
+Del: If it will help you come back in one piece, I suppose.
+
+Kaleb dons his pressure suit and straps on a thruster pack.
+
+    Outer First Look
+    (66) Sending a signal or message
+
+As he's getting ready, Del has started some initial scans and calls Kaleb back
+to the cockpit.
+
+Del: I didn't notice it at first, but the ship is transmitting a signal. What
+     do you make of this?
+
+    Gather Information, +wits
+    (1+2 vs 5,8) miss
+
+    What's the nature of the threat revealed by the message? Action, Theme
+    (32, 18) Defy danger
+
+    It's a warning saying to stay away. Does the message say what the threat is?
+    Ask the Oracle, 50/50
+    (78) Yes
+
+    What's the nature of the threat? Descriptor, Focus
+    (31, 96) Depleted viewpoint
+    (13, 69) Breached resource
+
+The message being broadcast from the derelict is a short loop, with parts of the
+message obscured by static. It's not clear how long it has been floating out here.
+Parts of the message are saying to stay away, and that there was damage to a
+container and a leak. Kaleb does his best to clean up the signal, but that's all
+that can really be made out.
+
+Del: If you won't listen to me, maybe you'll listen to them. It's too risky to
+     go over there.
+Kaleb: What are we going to do for the next three hours? Just sit here and
+       twiddle our thumbs? How about this. I won't go inside. I'll just do a
+       survey of the hull.
+
+    What kind of ship is it? Fleet
+    (43) Salvager hive
+    This is another salvager vessel. Probably similar in size to the Borealis.
