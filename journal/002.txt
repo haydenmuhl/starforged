@@ -16,7 +16,6 @@ Kaleb flips a few switches and shutters begin to come down over the windows.
 Kaleb: We'd better get to the center of the ship, unless you want your kids to
        have three arms. We might want to put on our pressure suits while we're
        at it. They'll have some extra shielding.
-Del: I don't know if we'll
 
 They don their suits and head towards the engine room. Del starts to poke at a
 terminal.
@@ -127,3 +126,58 @@ Kaleb: What are we going to do for the next three hours? Just sit here and
     What kind of ship is it? Fleet
     (43) Salvager hive
     This is another salvager vessel. Probably similar in size to the Borealis.
+
+Kaleb exits the air lock and pushes off towards the derelict.
+After a few minutes, he drifts within range and uses his thruster pack to hover several meters from the hull.
+Kaleb does a systematic survey of the hull with his laser scanner.
+The scanner projects a pale green grid onto the hull, then a brighter line scans across the grid as it collects data.
+The scan takes the better part of a couple hours.
+What does Kaleb find?
+
+    Gather Information, +wits
+    (3+2 vs 1,10) weak hit
+    +1 momentum, 3 momentum
+    the information provides new insight, but also complicates your quest
+
+    Descriptor: (03) Active
+    Focus: (44) Lair
+
+    There's something alive and hostile inside.
+
+As Kaleb is finishing up the scans, Del is completing some preliminary analysis.
+
+Del: Kaleb, there's some noise in your scan data that I don't understand.
+Kaleb: Noise? What do you mean, "noise"?
+Del: It looks like the transmission has interference in it, but you signal is coming in loud and clear. Can you re-scan sector... 42?
+Kaleb: Sure thing.
+
+After completing the scan, Del comes back on the radio.
+
+Del: I think you should come on board and see this.
+Kaleb: Sounds good. Nothing too exciting from where I'm floating.
+
+Kaleb comes on board and looks over Del's shoulder as he doffs his suit.
+
+Del: Take a look at this. Here are the two scans of sector 42 overlayed on each
+     other. Here, on the first scan, is the noise I was talking about. On the
+     second scan, that area is clean. An here's an area with noise from the second
+     scan, but the same area of the hull is clean on the first scan. Could your
+     scanner be malfunctioning?
+Kaleb: It seemed to be in good working order. I can check it later to rule that
+       out.
+Del: OK. It doesn't seem to be a transmission problem. Let's assume for now the
+     scanner is working properly. The two scans rule out bumps on the hull. So,
+     what is it?
+Kaleb: It looks like some kind of vibration, but that ship is cold and dead. I
+       didn't detect any activity from the engines or other systems. Yeah, look
+       at the shape of the noise. The hull is ringing like a bell. What is in
+       that ship?
+Del: Well, I don't think it's going anywhere. You'll have plenty of time to come
+     back once we're done charting this new passage.
+Kaleb: OK. I can take a hint. I'll start charting the next drift.
+
+Health: 5
+Spirit: 5
+Supply: 5
+Momentum: 3
+Integrity (Command Vehicle): 4
